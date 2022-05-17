@@ -1,6 +1,7 @@
-# Gains > My name is [Anton L-A](https://github.com/xamnotna) and this is my Final thesis project made with [Albin Ryberg](https://github.com/AlbinR) for the course Front End developer at KYH. 
+# Gains 
+##My name is [Anton L-A](https://github.com/xamnotna) and this is my Final thesis project made with [Albin Ryberg](https://github.com/AlbinR) for the course Front End developer at KYH. 
 ---  
-## About this project.  
+### About this project.  
 This app is made in React native and TypeScript. 
 The design and work is a collaboration with [Kingstinct](https://github.com/robertherber) >
 Gains is an app that lets you track your workout and see you progress as you keep using it. 
