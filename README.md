@@ -12,7 +12,7 @@
 The design and work is a collaboration with [Kingstinct](https://github.com/robertherber) 
 Gains is an app that lets you create and track your workouts. You can also see your strength progress on the induviduall exercises.
 ---
-### Credit
+### Credits
 > - [Albin Ryberg](https://github.com/AlbinR)
 > - [Robert Herbert](https://github.com/robertherber)
 > - [Anton Larsson-Auna](https://github.com/xamnotna)
