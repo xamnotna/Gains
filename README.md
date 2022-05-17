@@ -12,7 +12,8 @@ The design and work is a collaboration with [Kingstinct](https://github.com/robe
 Gains is an app that lets you track your workout and see you progress as you keep using it. 
 [The github repo.](https://github.com/xamnotna/gains)  
 > To run/edit the project on your computer: 
-> > > > > > - Fork or clone the repo. 
-> > > > > > > - use npm install (requires NODE an npm). 
-> > > > > > > > - then npm start. 
-> > > > > > > > > - app should run...  ---
+> 
+> - Fork or clone the repo. 
+> - use npm install (requires NODE an npm). 
+> - then npm start. 
+> - app should run...  ---
