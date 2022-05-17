@@ -12,10 +12,16 @@
 The design and work is a collaboration with [Kingstinct](https://github.com/robertherber) 
 Gains is an app that lets you create and track your workouts. You can also see your strength progress on the induviduall exercises.
 ---
+### Credit
+> - [Albin Ryberg](https://github.com/AlbinR)
+> - [Robert Herbert](https://github.com/robertherber)
+> - [Anton Larsson-Auna](https://github.com/xamnotna)
+---
 [The github repo.](https://github.com/xamnotna/gains)  
 > To run/edit the project on your computer: 
 > 
 > - Fork or clone the repo. 
 > - use npm install (requires NODE an npm). 
 > - then expo start. 
-> - app should run...  ---
+> - app should run...  
+> ---
