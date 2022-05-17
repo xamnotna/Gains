@@ -1,5 +1,5 @@
 # Gains 
-##My name is [Anton L-A](https://github.com/xamnotna) and this is my Final thesis project made with [Albin Ryberg](https://github.com/AlbinR) for the course Front End developer at KYH. 
+## My name is [Anton L-A](https://github.com/xamnotna) and this is my Final thesis project made with [Albin Ryberg](https://github.com/AlbinR) for the course Front End developer at KYH. 
 ---  
 ### About this project.  
 This app is made in React native and TypeScript. 
