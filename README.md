@@ -8,8 +8,10 @@
 > - Expo Go
 > - GaphQL
 > - URQL
-The design and work is a collaboration with [Kingstinct](https://github.com/robertherber) >
+---
+The design and work is a collaboration with [Kingstinct](https://github.com/robertherber) 
 Gains is an app that lets you create and track your workouts. You can also see your strength progress on the induviduall exercises.
+---
 [The github repo.](https://github.com/xamnotna/gains)  
 > To run/edit the project on your computer: 
 > 
